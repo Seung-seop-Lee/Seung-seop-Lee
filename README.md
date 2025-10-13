@@ -49,9 +49,9 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![ERIC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-seop-Lee)](https://github.com/anuraghazra/github-readme-stats)
+  [![ERIC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-seop-Lee&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seung-seop-Lee)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seung-seop-Lee&layout=compact&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
   ## 🧑‍💻 My GitHub Summary
 
