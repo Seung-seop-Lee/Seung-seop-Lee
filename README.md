@@ -57,15 +57,14 @@
   <br/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seung-seop-Lee)](https://github.com/anuraghazra/github-readme-stats)
 
-  ## 📊 My GitHub Summary
+  ## 🧑‍💻 My GitHub Summary
 
-  ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seung-seop-Lee&theme=nord_bright)
+  ![](https://raw.githubusercontent.com/Seung-seop-Lee/Seung-seop-Lee/main/profile-summary-card-output/default/0-profile-details.svg)
+  ![](https://raw.githubusercontent.com/Seung-seop-Lee/Seung-seop-Lee/main/profile-summary-card-output/default/1-repos-per-language.svg)
+  ![](https://raw.githubusercontent.com/Seung-seop-Lee/Seung-seop-Lee/main/profile-summary-card-output/default/2-most-commit-language.svg)
+  ![](https://raw.githubusercontent.com/Seung-seop-Lee/Seung-seop-Lee/main/profile-summary-card-output/default/3-stats.svg)
+  ![](https://raw.githubusercontent.com/Seung-seop-Lee/Seung-seop-Lee/main/profile-summary-card-output/default/4-productive-time.svg)
 
-  ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seung-seop-Lee&theme=nord_bright)
-  ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seung-seop-Lee&theme=nord_bright)
-
-  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seung-seop-Lee&theme=nord_bright)
-  ![Commits per day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seung-seop-Lee&theme=nord_bright)
 
 </div>
 
