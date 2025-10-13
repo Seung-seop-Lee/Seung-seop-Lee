@@ -1,5 +1,8 @@
 name: GitHub Profile Summary Cards
 
+permissions:
+  contents: write
+  
 on:
   schedule: # 자동 업데이트 (매일 새벽 3시)
     - cron: "0 3 * * *"
