@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6ee7b7,100:3b82f6&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Welcome%20to%20my%20GitHub!%20🌿&descAlignY=55&descAlign=65)
   
 </div>
 
@@ -41,18 +41,19 @@
   <br/>
   <br/>
   
-  ## 🤔 Github Stats
-  [![ERIC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-seop-Lee&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seung-seop-Lee&layout=compact&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+## 🤔 GitHub Stats  
+[![ERIC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-seop-Lee&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=cccccc&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seung-seop-Lee&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=cccccc&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
 
   ## 🧑‍💻 My GitHub Summary
 
-  ![](https://raw.githubusercontent.com/Seung-seop-Lee/Seung-seop-Lee/main/profile-summary-card-output/default/0-profile-details.svg)
-  ![](https://raw.githubusercontent.com/Seung-seop-Lee/Seung-seop-Lee/main/profile-summary-card-output/default/1-repos-per-language.svg)
-  ![](https://raw.githubusercontent.com/Seung-seop-Lee/Seung-seop-Lee/main/profile-summary-card-output/default/2-most-commit-language.svg)
-  ![](https://raw.githubusercontent.com/Seung-seop-Lee/Seung-seop-Lee/main/profile-summary-card-output/default/3-stats.svg)
-  ![](https://raw.githubusercontent.com/Seung-seop-Lee/Seung-seop-Lee/main/profile-summary-card-output/default/4-productive-time.svg)
+![](https://raw.githubusercontent.com/Seung-seop-Lee/Seung-seop-Lee/main/profile-summary-card-output/graywhite/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Seung-seop-Lee/Seung-seop-Lee/main/profile-summary-card-output/graywhite/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Seung-seop-Lee/Seung-seop-Lee/main/profile-summary-card-output/graywhite/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/Seung-seop-Lee/Seung-seop-Lee/main/profile-summary-card-output/graywhite/3-stats.svg)
+![](https://raw.githubusercontent.com/Seung-seop-Lee/Seung-seop-Lee/main/profile-summary-card-output/graywhite/4-productive-time.svg)
+
 
 
 </div>
