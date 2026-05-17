@@ -45,9 +45,9 @@
   
 ## 🤔 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Seung-seop-Lee&show_icons=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Seung-seop-Lee&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Seung-seop-Lee&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Seung-seop-Lee&layout=compact&count_private=true)
 
   ## 🧑‍💻 My GitHub Summary
 

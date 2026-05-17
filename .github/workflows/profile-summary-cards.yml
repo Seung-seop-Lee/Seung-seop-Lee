@@ -16,7 +16,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Private 레포지토리를 포함하려면 GITHUB_TOKEN 대신 'repo' 권한이 있는 Personal Access Token(PAT)을 사용해야 합니다.
+          # Settings > Secrets > Actions에 GH_TOKEN이라는 이름으로 PAT를 등록하세요.
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           USERNAME: Seung-seop-Lee
           THEME: github_dark
